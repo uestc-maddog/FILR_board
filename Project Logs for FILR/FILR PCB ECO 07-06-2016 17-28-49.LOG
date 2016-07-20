@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=VCC30_IO Pin=BOOT1-1
+Removed Pin From Net: NetName=BOOT0 Pin=BOOT1-2
+Removed Pin From Net: NetName=OTG_FS_D_N Pin=USB-2
+Removed Pin From Net: NetName=OTG_FS_D_P Pin=USB-3
+Removed Pin From Net: NetName=USB_ID Pin=USB-4
+Removed Pin From Net: NetName=VCC30_IO Pin=VCC3-1
+Removed Pin From Net: NetName=TCK-SWCLK Pin=VCC3-3
+Removed Pin From Net: NetName=TDO Pin=VCC3-4
+Removed Pin From Net: NetName=TMS-SWDIO Pin=VCC3-5
+Removed Pin From Net: NetName=TDI Pin=VCC3-6
+Removed Pin From Net: NetName=PA2_USART2_TX Pin=VCC3-7
+Removed Pin From Net: NetName=PA2_USART2_RX Pin=VCC3-8
+Removed Pin From Net: NetName=COMP_SCL Pin=VCC3-9
+Removed Pin From Net: NetName=COMP_SDA Pin=VCC3-10
+Removed Pin From Net: NetName=BOOT0 Pin=VCC3-11
+Removed Pin From Net: NetName=GND Pin=VCC3-12
+Removed Pin From Net: NetName=GND Pin=VCC3-13
+Removed Pin From Net: NetName=GND Pin=VCC3-14
+Removed Member From Class: ClassName=FILR Member=BOOT1
+Removed Member From Class: ClassName=FILR Member=VCC3
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Member To Class: ClassName=FILR Member=Component U1 1050281001

@@ -1,0 +1,13 @@
+Added Component: Designator=C39(CAP_0402_SMD)
+Added Component: Designator=R29(RES_0603_SMD)
+Added Component: Designator=SW1(SW-B3U-3000P)
+Added Pin To Net: NetName=GND Pin=C39-1
+Added Pin To Net: NetName=OTG_FS_D_N Pin=C39-2
+Added Pin To Net: NetName=VCC30_IO Pin=R29-1
+Added Pin To Net: NetName=OTG_FS_D_N Pin=R29-2
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=OTG_FS_D_N Pin=SW1-2
+Change Net Name : Old Net Name=OTG_FS_D_N New Net Name=MODE_KEY
+Added Member To Class: ClassName=FILR Member=Component C39 0.1uF
+Added Member To Class: ClassName=FILR Member=Component R29 100K
+Added Member To Class: ClassName=FILR Member=Component SW1 KEY

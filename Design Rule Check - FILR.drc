@@ -1,0 +1,51 @@
+Protel Design System Design Rule Check
+PCB File : E:\CloudDisk\OneDrive\WorkShop\??\FILR\PCB\FILR\FILR.PcbDoc
+Date     : 03/06/2016
+Time     : 09:54:47
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1.181mil) (Max=3937.008mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=4mil) (Max=100mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
+   Violation between Clearance Constraint: (5.362mil < 7mil) Between Region (0 hole(s)) Signal1 And Pad U4-11(4060mil,4200mil) on Signal1 
+Rule Violations :1
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U7-9(2890.472mil,4138.701mil) on Signal1 And Pad U7-11(2929.843mil,4138.701mil) on Signal1 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U4-3(4003.11mil,4200mil) on Signal1 And Pad U4-11(4060mil,4200mil) on Signal1 
+Rule Violations :2
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Region (0 hole(s)) Signal1 And Pad U4-11(4060mil,4200mil) on Signal1 Location : [X = 4060mil][Y = 4200mil]
+Rule Violations :1
+
+
+Violations Detected : 4
+Time Elapsed        : 00:00:01

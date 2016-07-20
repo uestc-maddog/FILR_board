@@ -1,0 +1,21 @@
+Added Component: Designator=U2(QFN20)
+Added Pin To Net: NetName=NetR11_2 Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=PB_STAT Pin=U2-3
+Added Pin To Net: NetName=NetSW3_2 Pin=U2-4
+Added Pin To Net: NetName=NetR12_2 Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Pin To Net: NetName=NetR13_2 Pin=U2-7
+Added Pin To Net: NetName=NetC28_1 Pin=U2-8
+Added Pin To Net: NetName=NetR14_2 Pin=U2-9
+Added Pin To Net: NetName=VCC28A Pin=U2-10
+Added Pin To Net: NetName=VIN Pin=U2-11
+Added Pin To Net: NetName=VIN Pin=U2-12
+Added Pin To Net: NetName=NetL1_1 Pin=U2-13
+Added Pin To Net: NetName=NetR1_2 Pin=U2-14
+Added Pin To Net: NetName=NetR7_2 Pin=U2-15
+Added Pin To Net: NetName=NetR9_1 Pin=U2-16
+Added Pin To Net: NetName=VCC_LI_ION Pin=U2-17
+Added Pin To Net: NetName=VIN Pin=U2-18
+Added Pin To Net: NetName=VCCUSB50 Pin=U2-20
+Added Member To Class: ClassName=FILR Member=Component U2 LTC3553

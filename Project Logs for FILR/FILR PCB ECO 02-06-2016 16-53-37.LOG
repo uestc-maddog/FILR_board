@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=COMP_SCL Pin=R27-1
+Removed Pin From Net: NetName=VCC30_IO Pin=R27-2
+Removed Pin From Net: NetName=COMP_SDA Pin=R28-1
+Removed Pin From Net: NetName=VCC30_IO Pin=R28-2
+Removed Member From Class: ClassName=FILR Member=R27
+Removed Member From Class: ClassName=FILR Member=R28
+Added Room: Name=FILR

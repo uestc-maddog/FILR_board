@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=U4 Old Footprint=DFN10 New Footprint=RT6150A_3X3_SON
+Added Member To Class: ClassName=FILR Member=Component J6 Micro-USB
+Added Room: Name=FILR

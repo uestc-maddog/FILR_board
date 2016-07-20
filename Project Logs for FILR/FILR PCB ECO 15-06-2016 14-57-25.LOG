@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VCC28A Pin=R12-1
+Removed Pin From Net: NetName=GND Pin=U2-2
+Removed Member From Class: ClassName=FILR Member=R12
+Change Component DesignItemId : Designator=U2 Old DesignItemId=LTC3553 New DesignItemId=LTC3553-2
+Change Component Comment : Designator=U2 Old Comment=LTC3553 New Comment=LTC3553-2
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Member To Class: ClassName=FILR Member=Component U5 1.8_TFT_8PIN_ST7735

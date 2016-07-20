@@ -1,0 +1,13 @@
+Added Component: Designator=U4(RT6150A_SON_10PIN_3X3)
+Added Pin To Net: NetName=VCC30_IO Pin=U4-1
+Added Pin To Net: NetName=NetL2_2 Pin=U4-2
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=NetL2_1 Pin=U4-4
+Added Pin To Net: NetName=VIN Pin=U4-5
+Added Pin To Net: NetName=VCC28A Pin=U4-6
+Added Pin To Net: NetName=GND Pin=U4-7
+Added Pin To Net: NetName=VIN Pin=U4-8
+Added Pin To Net: NetName=GND Pin=U4-9
+Added Pin To Net: NetName=NetR24_1 Pin=U4-10
+Added Pin To Net: NetName=GND Pin=U4-11
+Added Member To Class: ClassName=FILR Member=Component U4 RT6150A

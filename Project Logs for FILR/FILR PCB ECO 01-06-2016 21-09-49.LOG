@@ -1,0 +1,12 @@
+Added Component: Designator=U7(HMC2883_QFN16)
+Added Pin To Net: NetName=COMP_SCL Pin=U7-1
+Added Pin To Net: NetName=VCC30_IO Pin=U7-2
+Added Pin To Net: NetName=VCC30_IO Pin=U7-4
+Added Pin To Net: NetName=NetC36_2 Pin=U7-8
+Added Pin To Net: NetName=GND Pin=U7-9
+Added Pin To Net: NetName=NetC37_1 Pin=U7-10
+Added Pin To Net: NetName=GND Pin=U7-11
+Added Pin To Net: NetName=NetC36_1 Pin=U7-12
+Added Pin To Net: NetName=VCC30_IO Pin=U7-13
+Added Pin To Net: NetName=COMP_SDA Pin=U7-16
+Added Member To Class: ClassName=FILR Member=Component U7 HMC5883L

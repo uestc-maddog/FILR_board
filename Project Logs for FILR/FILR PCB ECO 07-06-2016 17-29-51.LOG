@@ -1,0 +1,5 @@
+Added Component: Designator=H3(HDR1X3)
+Added Pin To Net: NetName=TMS-SWDIO Pin=H3-1
+Added Pin To Net: NetName=TCK-SWCLK Pin=H3-2
+Added Pin To Net: NetName=GND Pin=H3-3
+Added Member To Class: ClassName=FILR Member=Component H3 JLINK_Debugger

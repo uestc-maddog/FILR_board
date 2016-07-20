@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=LCD_DC Pin=U3-4
+Added Pin To Net: NetName=ESP_RST Pin=U5-6
+Added Pin To Net: NetName=ESP_CH_PD Pin=U5-7
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default

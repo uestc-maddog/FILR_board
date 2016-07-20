@@ -1,0 +1,11 @@
+Added Member To Class: ClassName=FILR Member=Component C30 1uF
+Added Member To Class: ClassName=FILR Member=Component C34 2.2uF
+Added Member To Class: ClassName=FILR Member=Component C36 0.22uF
+Added Member To Class: ClassName=FILR Member=Component C37 4.7uF
+Added Member To Class: ClassName=FILR Member=Component C38 0.1uF
+Added Member To Class: ClassName=FILR Member=Component C39 0.1uF
+Added Member To Class: ClassName=FILR Member=Component R25 102K
+Added Member To Class: ClassName=FILR Member=Component R26 22
+Added Member To Class: ClassName=FILR Member=Component R27 10K
+Added Member To Class: ClassName=FILR Member=Component R28 10K
+Added Member To Class: ClassName=FILR Member=Component U7 HMC5883L

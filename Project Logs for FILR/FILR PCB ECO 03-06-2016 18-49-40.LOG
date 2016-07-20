@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=BOOT1 Old Footprint=B3U-3000P New Footprint=SW-B3U-3000P
+Change Component Footprint: Designator=ON Old Footprint=B3U-3000P New Footprint=SW-B3U-3000P
+Change Component Footprint: Designator=RESET Old Footprint=B3U-3000P New Footprint=SW-B3U-3000P
+Change Component Footprint: Designator=USB Old Footprint=MIicro-USB New Footprint=Micro-USB

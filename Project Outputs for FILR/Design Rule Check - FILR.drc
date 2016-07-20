@@ -1,0 +1,66 @@
+Protel Design System Design Rule Check
+PCB File : E:\CloudDisk\OneDrive\WorkShop\Project\FILR\PCB\FILR\FILR.PcbDoc
+Date     : 20/07/2016
+Time     : 14:12:14
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (IsVia)
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1.181mil) (Max=3937.008mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Assembly Testpoint Style (Under Component=Yes) ((IsPad And (OnTopLayer Or OnBottomLayer)) Or (IsVia) Or (IsPad And OnMultiLayer))
+Rule Violations :0
+
+Processing Rule : Assembly Testpoint Usage (Valid =One Required, Allow multiple per net=No) (All)
+Rule Violations :0
+
+Processing Rule : Fabrication Testpoint Style (Under Component=Yes) ((IsPad And (OnTopLayer Or OnBottomLayer)) Or (IsVia) Or (IsPad And OnMultiLayer))
+Rule Violations :0
+
+Processing Rule : Fabrication Testpoint Usage (Valid =One Required, Allow multiple per net=No) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=4mil) (Max=100mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=1mil) (InNetClass('SPI1'))
+   Violation between Matched Net Lengths: Between Net LCD_SCLK And Net LCD_MOSI Length:1031.022mil is not within 1mil tolerance of Length:1064.249mil (32.227mil short) 
+Rule Violations :1
+
+
+Violations Detected : 1
+Time Elapsed        : 00:00:03

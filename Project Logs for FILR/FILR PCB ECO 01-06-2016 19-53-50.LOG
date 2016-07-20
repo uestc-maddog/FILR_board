@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=R26-1
+Removed Pin From Net: NetName=NetR26_2 Pin=R26-2
+Added Component: Designator=U5(1_8_TFT_8PIN_ST7735)
+Added Pin To Net: NetName=NetR26_2 Pin=R26-1
+Added Pin To Net: NetName=VCC30_IO Pin=R26-2
+Added Pin To Net: NetName=VCC30_IO Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=VCC30_IO Pin=U5-4
+Added Pin To Net: NetName=LCD_DC Pin=U5-5
+Added Pin To Net: NetName=LCD_MOSI Pin=U5-6
+Added Pin To Net: NetName=LCD_SCLK Pin=U5-7
+Added Pin To Net: NetName=NetR26_2 Pin=U5-8
+Change Net Name : Old Net Name=NetR26_2 New Net Name=NetR26_1
+Added Member To Class: ClassName=FILR Member=Component U5 1_8_TFT_8PIN_ST7735

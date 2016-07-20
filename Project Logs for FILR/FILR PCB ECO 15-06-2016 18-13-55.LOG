@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=U2-6
+Removed Pin From Net: NetName=PB_STAT Pin=U3-14
+Removed Pin From Net: NetName=TIM3_CH3 Pin=U3-18
+Removed Pin From Net: NetName=GND Pin=U5-3
+Change Component Designator: OldDesignator=VBAT NewDesignator=J10
+Added Component: Designator=R27(RES_0603_SMD)
+Added Component: Designator=R28(RES_0603_SMD)
+Added Pin To Net: NetName=TIM3_CH4 Pin=R27-1
+Added Pin To Net: NetName=VCC_LI_ION Pin=R27-2
+Added Pin To Net: NetName=GND Pin=R28-1
+Added Pin To Net: NetName=TIM3_CH4 Pin=R28-2
+Added Pin To Net: NetName=OTG_FS_D_P Pin=U2-6
+Added Pin To Net: NetName=TIM3_CH3 Pin=U3-14
+Added Pin To Net: NetName=PB_STAT Pin=U3-18
+Added Pin To Net: NetName=TIM3_CH3 Pin=U5-3
+Change Net Name : Old Net Name=OTG_FS_D_P New Net Name=STBY
+Change Net Name : Old Net Name=TIM3_CH3 New Net Name=LCD_CS
+Change Net Name : Old Net Name=TIM3_CH4 New Net Name=BAT_ADC
+Change Net Name : Old Net Name=USB_ID New Net Name=PGOOD
+Added Member To Class: ClassName=FILR Member=Component R27 10K
+Added Member To Class: ClassName=FILR Member=Component R28 10K

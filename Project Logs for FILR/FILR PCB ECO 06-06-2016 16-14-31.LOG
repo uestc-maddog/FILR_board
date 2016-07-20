@@ -1,0 +1,10 @@
+Added Component: Designator=U5(1_8_TFT_ST7735_8PIN)
+Added Pin To Net: NetName=VCC30_IO Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=VCC30_IO Pin=U5-4
+Added Pin To Net: NetName=LCD_DC Pin=U5-5
+Added Pin To Net: NetName=ESP_RST Pin=U5-6
+Added Pin To Net: NetName=ESP_CH_PD Pin=U5-7
+Added Pin To Net: NetName=NetR26_1 Pin=U5-8
+Added Member To Class: ClassName=FILR Member=Component U5 1.8_TFT_8PIN_ST7735

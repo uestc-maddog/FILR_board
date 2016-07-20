@@ -1,0 +1,10 @@
+Output: PCAD Netlist
+Type  : PCADNetlist
+From  : Project [Free Documents]
+   Generated File[FILR.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 14:16:14 On 01/06/2016

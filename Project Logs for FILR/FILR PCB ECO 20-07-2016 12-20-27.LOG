@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=VCC30_IO_LCD Pin=U1-9
+Added Pin To Net: NetName=VCC30_IO_LCD Pin=U1-10
+Added Pin To Net: NetName=LCD_CS Pin=U1-11
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Pin To Net: NetName=GND Pin=U1-17
+Added Pin To Net: NetName=GND Pin=U1-18

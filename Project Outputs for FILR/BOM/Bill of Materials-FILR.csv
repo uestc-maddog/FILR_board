@@ -1,0 +1,24 @@
+Comment,Description,Designator,Footprint,LibRef,Pins,Quantity
+10pF,Capacitor,"C1, C2, C28",CAP_0603_SMD,Cap,2,3
+10uF,Capacitor,"C3, C4, C10, C24, C27, C29",CAP-SMD-0805,Cap,2,6
+0.1uF,Capacitor,"C5, C6, C7, C8, C9, C12, C13, C14, C15, C26, C31, C38",CAP_0402_SMD,Cap,2,12
+1uF,Capacitor,"C11, C30",CAP_0603_SMD,Cap,2,2
+2.2uF,Capacitor,"C25, C34, C35",CAP_0603_SMD,Cap,2,3
+0.22uF,Capacitor,C36,CAP_0603_SMD,Cap,2,1
+4.7uF,Capacitor,C37,CAP_0603_SMD,Cap,2,1
+10uH,Inductor,L1,INDC_2520_SMD,Inductor,2,1
+4.7uH,Inductor,L2,INDC_2520_SMD,Inductor,2,1
+2.2K,Resistor,"R1, R2, R19, R21",RES_0603_SMD,Res2,2,4
+100K,Resistor,"R3, R7, R10, R11, R13, R15",RES_0603_SMD,Res2,2,6
+10K,Resistor,"R6, R8, R20",RES_0402_SMD,Res2,2,3
+1.87K,Resistor,R9,CAP-SMD-0805,Res2,2,1
+2M,Resistor,R14,RES_0603_SMD,Res2,2,1
+332K,Resistor,R16,RES_0603_SMD,Res2,2,1
+806K,Resistor,R17,RES_0603_SMD,Res2,2,1
+649K,Resistor,R18,RES_0603_SMD,Res2,2,1
+510K,Resistor,R24,RES_0603_SMD,Res2,2,1
+102K,Resistor,R25,RES_0603_SMD,Res2,2,1
+22,Resistor,R26,RES_0603_SMD,Res2,2,1
+10K,Resistor,"R27, R28",RES_0603_SMD,Res2,2,2
+25MHZ,,Y1,3225,25MHZ,4,1
+14.31818MHz,,Y2,3225,XTAL,4,1

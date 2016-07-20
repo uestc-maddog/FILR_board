@@ -1,0 +1,6 @@
+Change Value of Parameter Manufacturer in Part C1 Old=Generic Components New=KEMET
+Change Value of Parameter Manufacturer in Part C2 Old=Generic Components New=KEMET
+Change Value of Parameter Manufacturer in Part C28 Old=Generic Components New=KEMET
+Added Parameter P/N=C0603C100J5GACTU to Part C1
+Added Parameter P/N=C0603C100J5GACTU to Part C2
+Added Parameter P/N=C0603C100J5GACTU to Part C28

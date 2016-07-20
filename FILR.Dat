@@ -1,0 +1,38 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~FILR.PrjPcb|ReportField=ProjectFullPath~E:\CloudDisk\OneDrive\WorkShop\Project\FILR\PCB\FILR\FILR.PrjPcb|ReportField=Title~Bill of Materials For PCB Document [FILR.PcbDoc]|ReportField=TotalQuantity~78|ReportField=ReportTime~16:01:03|ReportField=ReportDate~20/07/2016|ReportField=ReportDateTime~20/07/2016 16:01:03|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~FILR.PcbDoc|ReportField=DataSourceFullPath~E:\CloudDisk\OneDrive\WorkShop\Project\FILR\PCB\FILR\FILR.PcbDoc
+1|4.7uF|Capacitor|C1|CAP_0603_SMD|Cap|1
+2|0.1uF|Capacitor|C2, C3, C7, C8, C9, C11, C13, C14, C20, C26, C27, C28, C29|CAP_0402_SMD|Cap|13
+3|0.22uF|Capacitor|C4|CAP_0603_SMD|Cap|1
+4|10pF|Capacitor|C5, C6, C17|CAP_0603_SMD|Cap|3
+5|1uF|Capacitor|C10, C25|CAP_0603_SMD|Cap|2
+6|2.2uF|Capacitor|C12, C18, C19|CAP_0603_SMD|Cap|3
+7|10uF|Capacitor|C15, C16, C21, C22, C23, C24|CAP-SMD-0805|Cap|6
+8|Diode||D1|DIO_0402_SMD|Diode|1
+9|JLINK_Debugger||H1|HDR1X3|JLINK_Debugger|1
+10|Micro-USB||J1|MICRO-USB|Micro-USB|1
+11|Header 2|Header, 2-Pin|J2|HDR_1X2|Header 2|1
+12|4.7uH|Inductor|L1|INDC_2520_SMD|Inductor|1
+13|10uH|Inductor|L2|INDC_2520_SMD|Inductor|1
+14|PNP|PNP Bipolar Transistor|Q1|SOT-23B_N|PNP|1
+15|22|Resistor|R1|RES_0603_SMD|Res2|1
+16|2.2K|Resistor|R2, R3, R4, R24|RES_0603_SMD|Res2|4
+17|10K|Resistor|R5, R21, R23|RES_0402_SMD|Res2|3
+18|100K|Resistor|R6, R7, R10, R13, R16, R18, R20|RES_0603_SMD|Res2|7
+19|649K|Resistor|R8|RES_0603_SMD|Res2|1
+20|332K|Resistor|R9|RES_0603_SMD|Res2|1
+21|102K|Resistor|R11|RES_0603_SMD|Res2|1
+22|510K|Resistor|R12|RES_0603_SMD|Res2|1
+23|1.87K|Resistor|R14|CAP-SMD-0805|Res2|1
+24|2M|Resistor|R15|RES_0603_SMD|Res2|1
+25|806K|Resistor|R17|RES_0603_SMD|Res2|1
+26|10K|Resistor|R19, R22|RES_0603_SMD|Res2|2
+27|KEY||SW1, SW2, SW3|SW-B3U-3000P|KEY|3
+28|TPS2829||U1, U2, U9, U10, U11, U12|SOT23-5|TPS2829|6
+29|HMC5883L||U3|HMC2883_QFN_16|HMC5883L|1
+30|TMP007||U4|DSBGA_8PIN|TMP007|1
+31|1050281001||U5|FLIR_CAMERA_SOCKET|1050281001|1
+32|STM32F411CEU6||U6|QFPN_48|STM32F411CEU6|1
+33|LTC3553-2||U7|QFN_20|LTC3553-2|1
+34|RT6150A|3*3|U8|RT6150A_SON_10PIN_3X3|RT6150A|1
+35|1_8_TFT_ST7735S_18PIN_NOPCB||U13|1_8_TFT_18PIN_NO_PCB|1_8_TFT_ST7735S_18PIN_NOPCB|1
+36|XTAL||Y1|14.31818_MHZ|XTAL|1
+37|25MHZ||Y2|25MHZ_ASEMB|25MHZ|1

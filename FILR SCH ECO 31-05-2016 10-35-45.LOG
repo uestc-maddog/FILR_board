@@ -1,0 +1,46 @@
+Change Value of Parameter Manufacturer in Part C3 Old=Generic Components New=YAGEO
+Change Value of Parameter Manufacturer in Part C4 Old=Generic Components New=YAGEO
+Change Value of Parameter Manufacturer in Part C5 Old=Generic Components New=TDK
+Change Value of Parameter Manufacturer in Part C6 Old=Generic Components New=TDK
+Change Value of Parameter Manufacturer in Part C7 Old=Generic Components New=TDK
+Change Value of Parameter Manufacturer in Part C8 Old=Generic Components New=TDK
+Change Value of Parameter Manufacturer in Part C9 Old=Generic Components New=TDK
+Change Value of Parameter Manufacturer in Part C10 Old=Generic Components New=YAGEO
+Change Value of Parameter Manufacturer in Part C11 Old=Generic Components New=YAGEO
+Change Value of Parameter Manufacturer in Part C12 Old=Generic Components New=TDK
+Change Value of Parameter Manufacturer in Part C13 Old=Generic Components New=TDK
+Change Value of Parameter Manufacturer in Part C14 Old=Generic Components New=TDK
+Change Value of Parameter Manufacturer in Part C15 Old=Generic Components New=TDK
+Change Value of Parameter Manufacturer in Part C24 Old=Generic Components New=YAGEO
+Change Value of Parameter Manufacturer in Part C25 Old=Generic Components New=YAGEO
+Change Value of Parameter Manufacturer in Part C26 Old=Generic Components New=TDK
+Change Value of Parameter Manufacturer in Part C27 Old=Generic Components New=YAGEO
+Change Value of Parameter Manufacturer in Part C29 Old=Generic Components New=YAGEO
+Change Value of Parameter Manufacturer in Part C30 Old=Generic Components New=YAGEO
+Change Value of Parameter Manufacturer in Part C31 Old=Generic Components New=TDK
+Change Value of Parameter Manufacturer in Part C34 Old=Generic Components New=YAGEO
+Change Value of Parameter Manufacturer in Part C35 Old=Generic Components New=YAGEO
+Added Parameter Manufacturer=MOLEX to Part U1
+Added Parameter P/N=105028 -1001 to Part U1
+Added Parameter P/N=CC0603KRX5R6BB225 to Part C25
+Added Parameter P/N=CC0603KRX5R6BB225 to Part C34
+Added Parameter P/N=CC0603KRX5R6BB225 to Part C35
+Added Parameter P/N= CC0603ZRY5V7BB105 to Part C11
+Added Parameter P/N= CC0603ZRY5V7BB105 to Part C30
+Added Parameter P/N=CC0805KKX5R5BB106 to Part C3
+Added Parameter P/N=CC0805KKX5R5BB106 to Part C4
+Added Parameter P/N=CC0805KKX5R5BB106 to Part C27
+Added Parameter P/N=CC0805KKX5R5BB106 to Part C29
+Added Parameter P/N=CC0805KKX5R6BB106 to Part C10
+Added Parameter P/N=CC0805KKX5R6BB106 to Part C24
+Added Parameter P/N=CGA2B1X7R1C104K050BC to Part C5
+Added Parameter P/N=CGA2B1X7R1C104K050BC to Part C6
+Added Parameter P/N=CGA2B1X7R1C104K050BC to Part C7
+Added Parameter P/N=CGA2B1X7R1C104K050BC to Part C8
+Added Parameter P/N=CGA2B1X7R1C104K050BC to Part C9
+Added Parameter P/N=CGA2B1X7R1C104K050BC to Part C12
+Added Parameter P/N=CGA2B1X7R1C104K050BC to Part C13
+Added Parameter P/N=CGA2B1X7R1C104K050BC to Part C14
+Added Parameter P/N=CGA2B1X7R1C104K050BC to Part C15
+Added Parameter P/N=CGA2B1X7R1C104K050BC to Part C26
+Added Parameter P/N=CGA2B1X7R1C104K050BC to Part C31
